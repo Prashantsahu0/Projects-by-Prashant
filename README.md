@@ -1,2 +1,2 @@
 # Projects-by-Prashant
-this is my first repository
+This is my first repository
